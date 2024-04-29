@@ -101,7 +101,7 @@ span {
   border-radius: 8px;
 }
 
-.main-info {
+.card-text {
   padding: 32px 48px;
   max-width: 500px;
   display: flex;
